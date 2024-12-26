@@ -1,0 +1,1 @@
+python main.py /cluster/work/erlandbo/imagenet/ --workers 10 --batch-size 2048 --weight-decay 1.0e-4 --epochs 100 --checkpoint-dir simclr100ep 
